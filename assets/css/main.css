@@ -1,0 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700);
+.btn {
+  display: inline-block;
+  margin-bottom: 0;
+  font-weight: 300;
+  text-align: center;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent; }

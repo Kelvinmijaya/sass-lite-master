@@ -1,0 +1,99 @@
+
+// Body
+$body-bg: #ffffff;
+
+// Borders
+$laravel-border-color: darken($body-bg, 10%);
+$list-group-border: $laravel-border-color;
+$navbar-default-border: $laravel-border-color;
+$panel-default-border: $laravel-border-color;
+$panel-inner-border: $laravel-border-color;
+
+// Brands
+$brand-primary: #3097D1;
+$brand-info: #8eb4cb;
+$brand-success: #2ab27b;
+$brand-warning: #cbb956;
+$brand-danger: #bf5329;
+
+// Typography
+$font-family-sans-serif: 'Titillium Web', sans-serif;
+$font-size-base: 14px;
+$line-height-base: 1.6;
+$text-color: #636b6f;
+
+// Navbar
+$navbar-default-bg: #fff;
+
+// Buttons
+$btn-default-color: $text-color;
+
+// Inputs
+$input-border: lighten($text-color, 40%);
+$input-border-focus: lighten($brand-primary, 25%);
+$input-color-placeholder: lighten($text-color, 30%);
+
+// Panels
+$panel-default-heading-bg: #fff;
+
+// Font size
+$font-size-light : 300;
+$font-size-normal : 400;
+$font-size-semibold : 600;
+$font-size-bold : 700;
+
+// Color
+$blue-dark: #224098;
+$blue-medium: #2C50AE;
+$blue-light: #587CE6;
+$orange: #ff9909;
+$white: #FFFFFF;
+$gray-darker: #333333;
+$gray-dark: #404040;
+$gray-medium: #58585a;
+$gray-light: #585858;
+$gray-header: #6D6E71;
+$border-header: #e6e6e6;
+$hover-header: #f5f5f5;
+$text-gray1: #333333;
+$text-gray2: #555555;
+$text-gray3: #666666;
+$border-product: #ebebeb;
+$product-desc: #e4e4e6;
+$product-price: #b82632;
+$product-disc: #8d8e92;
+
+
+// Variable Definitions
+$desktopHD: "screen and (max-width: 1200px)";
+$desktop: "screen and (max-width: 992px)";
+$tablet: "screen and (max-width: 768px)";
+$mobile: "screen and (max-width: 500px)";
+$small-mobile: "screen and (max-width: 350px)";
+$modal: "only screen and (min-width: 641px)";
+
+// Background
+$banner-bg: "../img/banner/banner1.jpg";
+$logo-bg: "../img/logo/logo-secondary.png";
+
+// Pattern
+$pattern-header: "../img/pattern/pattern-navigasi-white.png";
+$pattern-header-blue: "../img/pattern/pattern-navigasi-blue.png";
+
+// Icon
+$cart-icon: "../img/icon/troli.png";
+$cart-icon-white: "../img/icon/troli-white.png";
+$menu1: "../img/icon/menu1.png";
+$menu2: "../img/icon/menu2.png";
+$menu3: "../img/icon/menu3.png";
+$menu4: "../img/icon/menu4.png";
+$menu5: "../img/icon/menu5.png";
+
+$midMenu1: "../img/icon/kitchen.png";
+$midMenu2: "../img/icon/bathroom.png";
+$midMenu3: "../img/icon/living-space.png";
+$midMenu4: "../img/icon/office.png";
+$midMenu5: "../img/icon/outdoor.png";
+
+$leftArrow: "../img/icon/leftArrow.png";
+$rightArrow: "../img/icon/rightArrow.png";
