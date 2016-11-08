@@ -1,7 +1,15 @@
 
 // Fonts
-@import url(https://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,500);
 
 // Variables
 @import "variables";
-@import "taralite/buttons";
+@import "taralite/mixin";
+@import "taralite/normalize";
+@import "taralite/scafolding";
+@import "taralite/grid";
+@import "taralite/utilities";
+@import "taralite/responsive-utilities";
+@import "taralite/animation";
+@import "taralite/type";
+@import "taralite/pagination";

@@ -6,6 +6,7 @@ var gulpIf = require('gulp-if');
 var cssnano = require('gulp-cssnano');
 var del = require('del');
 var runSequence = require('run-sequence');
+var serve = require('gulp-serve');
 
 
 // Development Tasks 
@@ -63,3 +64,8 @@ gulp.task('build', function(callback) {
     callback
   )
 })
+gulp.task('serve', serve('assets'));
+gulp.task('serve-prod', serve({
+  root: 'dist',
+  port: 3030
+}));
