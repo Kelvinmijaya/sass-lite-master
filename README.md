@@ -1,4 +1,4 @@
-# Taralite SASS Master
+# Taralite SASS Master [![Build Status](https://travis-ci.org/Kelvinmijaya/taralite-sass-master.svg?branch=master)](https://travis-ci.org/Kelvinmijaya/taralite-sass-master)
 This project SASS was built from [Bootstrap SASS](https://github.com/twbs/bootstrap-sass).
 
 ### Install from source
