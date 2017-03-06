@@ -1,4 +1,4 @@
-# Taralite SASS Master [![Build Status](https://travis-ci.org/Kelvinmijaya/taralite-sass-master.svg?branch=master)](https://travis-ci.org/Kelvinmijaya/taralite-sass-master)
+# SASS Lite Master [![Build Status](https://travis-ci.org/Kelvinmijaya/sass-lite-master.svg?branch=master)](https://travis-ci.org/Kelvinmijaya/sass-lite-master)
 This project SASS was built from [Bootstrap SASS](https://github.com/twbs/bootstrap-sass).
 
 ### Install from source
@@ -6,7 +6,7 @@ This project SASS was built from [Bootstrap SASS](https://github.com/twbs/bootst
 First, clone the project:
 
 ```bash
-$ git clone https://github.com/Kelvinmijaya/taralite-sass-master.git <my-project-name>
+$ git clone https://github.com/Kelvinmijaya/sass-lite-master.git <my-project-name>
 $ cd <my-project-name>
 ```
 
